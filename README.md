@@ -25,7 +25,7 @@ This approach is suitable when:
 ### 📊 Scenario: Preventing Overselling with Optimistic Locking
 
 👉 [Details View: Optimistic Locking in Ticket Booking System](  
-https://github.com/faisal-porag/prevent_over_selling/wiki/Case-1:-Preventing-Over%E2%80%90Selling-in-E%E2%80%90commerce-Systems
+https://github.com/faisal-porag/prevent_over_selling/wiki/Case-2:-Preventing-Double-Booking-in-Ticket-Reservation-Systems
 )
 
 **Figure:** Optimistic locking flow showing successful stock updates (no conflict) and failed updates due to concurrent version mismatch.
