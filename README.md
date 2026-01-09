@@ -2,7 +2,7 @@
 
 A reference implementation and design guide to **prevent overselling and ensure proper stock management** for:
 
-- 🎟️ Ticket Booking Systems  
+- ✈️ Ticket Booking Systems  
 - 🏨 Hotel Room Booking Systems  
 - 🛒 E-commerce Inventory Management  
 
